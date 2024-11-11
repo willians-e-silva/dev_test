@@ -1,5 +1,9 @@
 # Descrição do Teste para a Vaga de Desenvolvedor Jr.
 
+## Contextualização do Desafio
+
+Este teste foi desenvolvido para avaliar suas habilidades práticas em tarefas comuns do dia a dia de um desenvolvedor júnior. Através deste desafio, você terá a oportunidade de demonstrar seu conhecimento na criação de banco de dados, definição de relacionamentos entre tabelas e entidades, além de aplicar boas práticas de desenvolvimento em um ambiente Docker. O objetivo é simular uma situação real de desenvolvimento de uma aplicação simples, onde você deverá criar as estruturas necessárias e garantir que o sistema esteja funcionando corretamente por meio de testes. A conclusão bem-sucedida desta tarefa refletirá seu domínio de conceitos importantes para a vaga.
+
 ## 1º Passo: Criação das Tabelas no `init.sql`
 
 Dentro do arquivo `init.sql`, crie as seguintes tabelas:
