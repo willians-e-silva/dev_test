@@ -41,7 +41,13 @@ Configure o `Dockerfile` da aplicação para garantir que ela seja construída c
 Execute os seguintes comandos para testar a aplicação:
 
 1. **Subir a aplicação utilizando Docker Compose**:
-   '''bash
-   docker-compose up --build
+   ```bash
+   docker compose up --build
    docker exec -it <Container Name> /bin/sh
-   npm test'''
+   
+   ```
+
+   Dentro do container, execute o teste:
+   ```bash
+   npm test
+   ```
