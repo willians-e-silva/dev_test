@@ -1,4 +1,4 @@
-# Descrição do Teste para a Vaga de Analista Jr.
+# Descrição do Teste para a Vaga de Desenvolvedor Jr.
 
 ## 1º Passo: Criação das Tabelas no `init.sql`
 
