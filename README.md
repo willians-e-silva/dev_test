@@ -51,3 +51,5 @@ Execute os seguintes comandos para testar a aplicação:
    ```bash
    npm test
    ```
+
+## 6º Passo: Crie um fork desse repositório e submita o código preenchido nele.
